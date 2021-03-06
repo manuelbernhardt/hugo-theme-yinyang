@@ -49,6 +49,10 @@ a:hover {
   border-radius: 6px;
 }
 
+li {
+  font-family: "Montserrat", sans-serif;
+}
+
 /* reset code */
 
 .markdown-body pre > code {
