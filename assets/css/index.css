@@ -1,7 +1,7 @@
 /* global */
 
 body {
-  font-family: "Bree Serif", sans-serif;
+  font-family: "Source Code Pro", sans-serif;
   -webkit-font-smoothing: antialiased;
   margin: 0 20px;
 }
@@ -74,7 +74,7 @@ a:hover {
   font-size: 2rem;
   font-weight: bold;
   margin-top: 32px;
-  font-family: "Bungee Shade", sans-serif;
+  font-family: "Source Code Pro", sans-serif;
 }
 .header-title a {
   text-decoration: none;
@@ -154,7 +154,7 @@ a:hover {
 }
 
 .post-header {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 .post-title {
@@ -185,12 +185,13 @@ a:hover {
 }
 
 .post-content {
-  margin-bottom: 50px;
+  margin-bottom: 25px;
 }
 
 .post-content p {
   hyphens: auto;
-  line-height: 1.8;
+  line-height: 1.5;
+  font-family: "Montserrat", sans-serif;
   /* text-align: justify; */
   text-justify: ideographic;
   margin-bottom: 1em;
